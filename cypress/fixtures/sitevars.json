@@ -1,0 +1,6 @@
+{
+    "siteurl":"https://gorest.co.in/public/v2/users",
+    "accessToken":"Bearer 68c077b27205db0b2c7513611483f25ddc84331397ecf2e0f9f14e4035a90561",
+    "weatherurl":"https://api.open-meteo.com/v1/forecast?",
+    "rest_country":"https://restcountries.com/v3.1/"
+}
