@@ -12,6 +12,7 @@ describe('Oauth feature APIs', () => {
     let access_token = ''
     let user_id = ''
 
+    // This would run once only, to generate Token everytime, we have to use beforeEach
     before('Generate the token', () => {
         cy.request({
             method: 'POST',
